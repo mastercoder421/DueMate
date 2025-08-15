@@ -61,6 +61,28 @@ It supports **text, images, reminders, progress tracking, and secure login** —
 
 ---
 
+## 🖼️ UI Design Preview
+
+> **Note:** File paths are case-sensitive. Images live in `ui-design/` at the repo root.
+
+| Authentication | Home |
+|---|---|
+| ![Authentication](ui-design/Auth_Screen.png) | ![Home](ui-design/Home_Screen.png) |
+
+| Add/Edit Task | Task Details |
+|---|---|
+| ![Add/Edit Task](ui-design/Add_Edit_Task.png) | ![Task Details](ui-design/Task_Details.png) |
+
+| Search & Filter | Calendar View |
+|---|---|
+| ![Search & Filter](ui-design/Search_Filter.png) | ![Calendar View](ui-design/Calendar_View.png) |
+
+| Settings |
+|---|
+| ![Settings](ui-design/Settings.png) |
+
+---
+
 ## 📥 Installation & Setup
 
 ### Prerequisites
