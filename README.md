@@ -63,23 +63,24 @@ It supports **text, images, reminders, progress tracking, and secure login** —
 
 ## 🖼️ UI Design Preview
 
-> **Note:** File paths are case-sensitive. Images live in `ui-design/` at the repo root.
+> Images are served via GitHub Raw to avoid path/case issues.
 
 | Authentication | Home |
 |---|---|
-| ![Authentication](ui-design/Auth_Screen.png) | ![Home](ui-design/Home_Screen.png) |
+| <img src="https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Auth_Screen.png" width="300"/> | <img src="https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Home_Screen.png" width="300"/> |
 
 | Add/Edit Task | Task Details |
 |---|---|
-| ![Add/Edit Task](ui-design/Add_Edit_Task.png) | ![Task Details](ui-design/Task_Details.png) |
+| <img src="https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Add_Edit_Task.png" width="300"/> | <img src="https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Task_Details.png" width="300"/> |
 
 | Search & Filter | Calendar View |
 |---|---|
-| ![Search & Filter](ui-design/Search_Filter.png) | ![Calendar View](ui-design/Calendar_View.png) |
+| <img src="https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Search_Filter.png" width="300"/> | <img src="https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Calendar_View.png" width="300"/> |
 
 | Settings |
 |---|
-| ![Settings](ui-design/Settings.png) |
+| <img src="https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Settings.png" width="300"/> |
+
 
 ---
 
