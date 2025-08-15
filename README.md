@@ -74,4 +74,4 @@ It supports **text, images, reminders, progress tracking, and secure login** —
 ### Steps to Run Locally
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/DueMate.git
+   git clone https://github.com/mastercoder421/DueMate.git
