@@ -60,24 +60,24 @@ It supports **text, images, reminders, progress tracking, and secure login** —
 | Version Control   | Git + GitHub |
 
 ---
-
 ## 🖼️ UI Design Preview
 
 | Authentication | Home |
 |---|---|
-| ![Authentication](ui-design/Auth_Screen.png) | ![Home](ui-design/Home_Screen.png) |
+| ![Authentication](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Auth_Screen.png) | ![Home](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Home_Screen.png) |
 
 | Add/Edit Task | Task Details |
 |---|---|
-| ![Add/Edit Task](ui-design/Add_Edit_Task.png) | ![Task Details](ui-design/Task_Details.png) |
+| ![Add/Edit Task](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Add_Edit_Task.png) | ![Task Details](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Task_Details.png) |
 
 | Search & Filter | Calendar View |
 |---|---|
-| ![Search & Filter](ui-design/Search_Filter.png) | ![Calendar View](ui-design/Calendar_View.png) |
+| ![Search & Filter](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Search_Filter.png) | ![Calendar View](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Calendar_View.png) |
 
 | Settings |
 |---|
-| ![Settings](ui-design/Settings.png) |
+| ![Settings](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Settings.png) |
+
 
 ---
 
