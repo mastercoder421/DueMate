@@ -64,20 +64,19 @@ It supports **text, images, reminders, progress tracking, and secure login** —
 
 | Authentication | Home |
 |---|---|
-| ![Authentication](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Auth_Screen.png) | ![Home](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Home_Screen.png) |
+| ![Authentication](https://raw.githubusercontent.com/mastercoder421/DueMate/main/app/ui-design/Auth_Screen.png) | ![Home](https://raw.githubusercontent.com/mastercoder421/DueMate/main/app/ui-design/Home_Screen.png) |
 
 | Add/Edit Task | Task Details |
 |---|---|
-| ![Add/Edit Task](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Add_Edit_Task.png) | ![Task Details](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Task_Details.png) |
+| ![Add/Edit Task](https://raw.githubusercontent.com/mastercoder421/DueMate/main/app/ui-design/Add_Edit_Task.png) | ![Task Details](https://raw.githubusercontent.com/mastercoder421/DueMate/main/app/ui-design/Task_Details.png) |
 
 | Search & Filter | Calendar View |
 |---|---|
-| ![Search & Filter](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Search_Filter.png) | ![Calendar View](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Calendar_View.png) |
+| ![Search & Filter](https://raw.githubusercontent.com/mastercoder421/DueMate/main/app/ui-design/Search_Filter.png) | ![Calendar View](https://raw.githubusercontent.com/mastercoder421/DueMate/main/app/ui-design/Calendar_View.png) |
 
 | Settings |
 |---|
-| ![Settings](https://raw.githubusercontent.com/mastercoder421/DueMate/main/ui-design/Settings.png) |
-
+| ![Settings](https://raw.githubusercontent.com/mastercoder421/DueMate/main/app/ui-design/Settings.png) |
 
 ---
 
