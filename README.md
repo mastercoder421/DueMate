@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="app/src/main/res/drawable/AppLogo.png" alt="DueMate Logo" width="200"/>
+</p>
+
+<p align="center">
+  <b>DueMate</b> – Smart Assignment & Task Tracker for students and professionals.
+</p>
+
+---
 # 📅 DueMate – Smart Assignment & Task Tracker
 
 DueMate is a **feature-rich Android application** built to help students and professionals organize assignments, tasks, and important deadlines effortlessly.  
