@@ -63,24 +63,21 @@ It supports **text, images, reminders, progress tracking, and secure login** —
 
 ## 🖼️ UI Design Preview
 
-<p align="center">
-  <img src="ui-design/Auth_Screen.png" alt="Auth Screen" width="260"/>
-  <img src="ui-design/Home_Screen.png" alt="Home Screen" width="260"/>
-</p>
+| Authentication | Home |
+|---|---|
+| ![Authentication](ui-design/Auth_Screen.png) | ![Home](ui-design/Home_Screen.png) |
 
-<p align="center">
-  <img src="ui-design/Add_Edit_Task.png" alt="Add/Edit Task" width="260"/>
-  <img src="ui-design/Task_Details.png" alt="Task Details" width="260"/>
-</p>
+| Add/Edit Task | Task Details |
+|---|---|
+| ![Add/Edit Task](ui-design/Add_Edit_Task.png) | ![Task Details](ui-design/Task_Details.png) |
 
-<p align="center">
-  <img src="ui-design/Search_Filter.png" alt="Search & Filter" width="260"/>
-  <img src="ui-design/Calendar_View.png" alt="Calendar View" width="260"/>
-</p>
+| Search & Filter | Calendar View |
+|---|---|
+| ![Search & Filter](ui-design/Search_Filter.png) | ![Calendar View](ui-design/Calendar_View.png) |
 
-<p align="center">
-  <img src="ui-design/Settings.png" alt="Settings" width="260"/>
-</p>
+| Settings |
+|---|
+| ![Settings](ui-design/Settings.png) |
 
 ---
 
