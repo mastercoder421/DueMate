@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/src/main/res/drawable/AppLogo.png" alt="DueMate Logo" width="200"/>
+  <img src="app/src/main/res/drawable/applogo3d.jpg" alt="DueMate Logo" width="200"/>
 </p>
 
 <p align="center">
